@@ -1,6 +1,6 @@
 name: area_polygon
 description: Calculate the area of a simple 2D polygon given its vertices. A Dart port of the area-polygon npm package.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/adil192/area_polygon
 repository: https://github.com/adil192/area_polygon
 issue_tracker: https://github.com/adil192/area_polygon/issues
